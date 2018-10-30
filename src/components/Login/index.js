@@ -6,6 +6,9 @@ import harvestIcon from "../../assets/harvest-h.svg"
 
 const LoginButton = styled(Button)`
   font-weight: 700;
+  display: flex;
+  align-items: center;
+  margin: auto;
 `
 
 const H1 = styled.h1`
